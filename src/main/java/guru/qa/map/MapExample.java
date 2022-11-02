@@ -13,7 +13,7 @@ public class MapExample {
                 "Jane Doe", new Contact("+79991112233")
         ));
 
-        Set<String > keySet = addressBook.keySet();
+        Set<String> keySet = addressBook.keySet();
         Collection<Contact> values = addressBook.values();
         Set<Map.Entry<String, Contact>> entries = addressBook.entrySet();
         for (Map.Entry<String, Contact> entry : entries) {

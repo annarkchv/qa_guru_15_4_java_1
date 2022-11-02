@@ -1,6 +1,5 @@
 package guru.qa;
 
-import java.util.List;
 import java.util.Set;
 
 public class SetExample {
